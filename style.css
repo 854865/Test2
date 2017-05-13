@@ -1,0 +1,48 @@
+h1{
+color: blue;
+font-size: 60px;
+}
+#sentence1{
+  color: black;
+  font-size: 30px;
+}
+h2{
+color: red;
+font-size: 60px;
+}
+#sentence2{
+  color: black;
+ font-size : 30px;
+}
+h3{
+color: purple;
+font-size: 60px;
+}
+#sentence3{
+  color: black;
+  font-size: 30px;
+}
+h4{
+color: pink;
+font-size: 60px;
+}
+#sentence4{
+  color: black;
+  font-size: 30px
+}
+h5{
+color: green;
+font-size: 60px;
+}
+#sentence5{
+   color: black;
+   font-size: 30px
+}
+h6{
+color: blue;
+font-size: 60px;
+}
+#sentence6{
+   color: black;
+   font-size: 40px
+}
