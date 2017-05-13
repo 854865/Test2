@@ -46,3 +46,8 @@ font-size: 60px;
    color: black;
    font-size: 40px
 }
+body{
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
